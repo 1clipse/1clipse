@@ -78,6 +78,5 @@ Three projects I use, improve, and contribute back to.
 ---
 
 <p align="center">
-  <strong>Still learning. Still building.</strong><br />
-  <a href="https://x.com/Knight1v9">X: @Knight1v9</a> &nbsp;·&nbsp; Email: <code>kimziyi0416@gmail.com</code>
+  <strong>Still learning. Still building.</strong>
 </p>
