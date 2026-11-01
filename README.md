@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://x.com/Knight1v9"><img src="https://img.shields.io/badge/X-Knight1v9-3b3733?style=flat-square&amp;logo=x&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="X: @Knight1v9" /></a>
   &nbsp;
-  <a href="mailto:kimziyi0416@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-3b3733?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="Email: kimziyi0416@gmail.com" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kimziyi0416%40gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-3b3733?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="Email: kimziyi0416@gmail.com" /></a>
 </p>
 
 <br />
@@ -79,5 +79,5 @@ Three projects I use, improve, and contribute back to.
 
 <p align="center">
   <strong>Still learning. Still building.</strong><br />
-  <a href="https://x.com/Knight1v9">@Knight1v9</a> &nbsp;·&nbsp; <a href="mailto:kimziyi0416@gmail.com">kimziyi0416@gmail.com</a>
+  <a href="https://x.com/Knight1v9">@Knight1v9</a> &nbsp;·&nbsp; <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=kimziyi0416%40gmail.com">kimziyi0416@gmail.com</a>
 </p>
