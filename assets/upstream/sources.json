@@ -1,0 +1,26 @@
+[
+  {
+    "repo": "farion1231/cc-switch",
+    "path": "src-tauri/icons/128x128@2x.png",
+    "commit": "8be840557bacd89d592f13ddc1bee0586afaea14",
+    "source": "https://github.com/farion1231/cc-switch/blob/8be840557bacd89d592f13ddc1bee0586afaea14/src-tauri/icons/128x128@2x.png",
+    "file": "cc-switch.png",
+    "blob_sha": "5f4cade4d75bcc9935e1d56381a540ef2f60fed7"
+  },
+  {
+    "repo": "tt-a1i/hive",
+    "path": "assets/logo.png",
+    "commit": "5d87d4ba10d9d66cfca32941a16c60e7e52476b0",
+    "source": "https://github.com/tt-a1i/hive/blob/5d87d4ba10d9d66cfca32941a16c60e7e52476b0/assets/logo.png",
+    "file": "hive.png",
+    "blob_sha": "ab88ee1b36163294a9ac94ede314c0e09c58a872"
+  },
+  {
+    "repo": "SeemSeam/claude_codex_bridge",
+    "path": "mobile/app/assets/brand/ccb-mobile-icon-1024.png",
+    "commit": "a898473333d1db03f0622e3af786b3d60a76c7e2",
+    "source": "https://github.com/SeemSeam/claude_codex_bridge/blob/a898473333d1db03f0622e3af786b3d60a76c7e2/mobile/app/assets/brand/ccb-mobile-icon-1024.png",
+    "file": "ccb.png",
+    "blob_sha": "a2fe40081d561e97a656c656683b1092c2268c9a"
+  }
+]

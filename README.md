@@ -1,52 +1,83 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/116350974?v=4" width="110" height="110" alt="Kim's avatar" />
-</p>
-
-<h1 align="center">Kim</h1>
-
-<p align="center">
-  <strong>AI Tooling · Developer Workflows · Open Source</strong>
+  <img src="assets/profile-hero.svg" width="100%" alt="Kim · @1clipse — Making AI tools work better. Open-source contributor based in Nanjing, Jiangsu." />
 </p>
 
 <p align="center">
-  Nanjing, Jiangsu, China · <a href="https://github.com/1clipse">@1clipse</a>
+  <a href="https://github.com/1clipse"><img src="https://img.shields.io/badge/GitHub-1clipse-3b3733?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="GitHub: 1clipse" /></a>
+  &nbsp;
+  <a href="https://x.com/Knight1v9"><img src="https://img.shields.io/badge/X-Knight1v9-3b3733?style=flat-square&amp;logo=x&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="X: @Knight1v9" /></a>
+  &nbsp;
+  <a href="mailto:kimziyi0416@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_talk-3b3733?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="Email: kimziyi0416@gmail.com" /></a>
 </p>
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/1clipse"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: 1clipse" /></a>
-  <a href="https://x.com/Knight1v9"><img src="https://img.shields.io/badge/X-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="X: @Knight1v9" /></a>
-  <a href="mailto:kimziyi0416@gmail.com"><img src="https://img.shields.io/badge/Email-6B7280?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email: kimziyi0416@gmail.com" /></a>
-</p>
+## A little about me
+
+I'm **Kim**, based in **Nanjing, Jiangsu**. I contribute to open-source AI coding tools, with a focus on **usage tracking**, **terminal reliability**, and **native Windows support**.
+
+I turn everyday frustrations into fixes others can use.
+
+<br />
+
+## Selected contributions
+
+Three projects I use, improve, and contribute back to.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<a href="https://github.com/farion1231/cc-switch"><img src="assets/cc-switch.svg" width="100%" alt="01 · CC Switch — Usage & accounting" /></a>
+
+<p>More reliable Codex usage tracking, without counting the same usage twice.</p>
+
+<p><strong>Merged</strong></p>
+<ul>
+  <li><a href="https://github.com/farion1231/cc-switch/pull/9093">#9093</a> — Recover fork usage after parent idle gaps.</li>
+  <li><a href="https://github.com/farion1231/cc-switch/pull/9105">#9105</a> · <a href="https://github.com/farion1231/cc-switch/pull/9106">#9106</a> — Token-total tests and cleaner validation.</li>
+</ul>
+<p><strong>Open</strong></p>
+<p><a href="https://github.com/farion1231/cc-switch/pull/9102">#9102</a> — Recover compaction timing without duplicate billing.</p>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/tt-a1i/hive"><img src="assets/hive.svg" width="100%" alt="02 · Hive — Terminal & collaboration" /></a>
+
+<p>Smoother terminal input and more resilient agent collaboration.</p>
+
+<p><strong>Merged</strong></p>
+<p><a href="https://github.com/tt-a1i/hive/pull/46">#46</a> — Stabilize Codex input and cursor behavior; restore team access.</p>
+<p><strong>Open</strong></p>
+<ul>
+  <li><a href="https://github.com/tt-a1i/hive/pull/65">#65</a> — Switch orchestrator CLI after quota exhaustion.</li>
+  <li><a href="https://github.com/tt-a1i/hive/pull/70">#70</a> — Restore Claude terminal scrolling on Windows.</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/SeemSeam/claude_codex_bridge"><img src="assets/ccb.svg" width="100%" alt="03 · CCB / Claude Codex Bridge — Native Windows" /></a>
+
+<p>A more dependable native Windows experience for Claude Codex Bridge.</p>
+
+<p><strong>Merged</strong></p>
+<ul>
+  <li><a href="https://github.com/SeemSeam/claude_codex_bridge/pull/368">#368</a> — Improve startup, reconnect, and foreground input.</li>
+  <li><a href="https://github.com/SeemSeam/claude_codex_bridge/pull/384">#384</a> — Protect config; add terminal checks and update rollback.</li>
+</ul>
+<p>Changes kept within Windows-owned code and tooling.</p>
+
+</td>
+</tr>
+</table>
 
 <br />
 
 ---
 
-## About
-
-I'm Kim, based in Nanjing, Jiangsu. I build tools for AI-assisted development, local LLM monitoring, and everyday automation.
-
-Contributor to [Claude Codex Bridge](https://github.com/SeemSeam/claude_codex_bridge), with [merged work on native Windows configuration protection, terminal checks, and update rollback](https://github.com/SeemSeam/claude_codex_bridge/pull/384).
-
-Still learning, building, and making things work a little better.
-
----
-
-## Projects
-
-A few things I've built or contributed to:
-
-| Project | Stack | Description |
-| --- | --- | --- |
-| [Codex Engineering Workflow](https://github.com/1clipse/codex-engineering-workflow) | JavaScript · MCP · PowerShell | A recoverable engineering workflow for coding agents, from planning and implementation to review and delivery. |
-| [LLM Monitor](https://github.com/1clipse/llm-monitor-v8) | Python · FastAPI · React | A local-first dashboard for LLM activity, token usage, and anomaly monitoring. |
-| [Weibo Chaohua for Android](https://github.com/1clipse/weibo-chaohua-android) | Kotlin · Android | A personal Android assistant for scheduled Weibo community check-ins. |
-| [Claude Codex Bridge](https://github.com/SeemSeam/claude_codex_bridge) | Python · Rust · PowerShell | A workspace for CLI coding agents. Contributor focused on native Windows reliability. |
-
----
-
-## Contact
-
-[X / @Knight1v9](https://x.com/Knight1v9) · [kimziyi0416@gmail.com](mailto:kimziyi0416@gmail.com)
+<p align="center">
+  <strong>Still learning. Still building.</strong><br />
+  <a href="https://x.com/Knight1v9">@Knight1v9</a> &nbsp;·&nbsp; <a href="mailto:kimziyi0416@gmail.com">kimziyi0416@gmail.com</a>
+</p>
