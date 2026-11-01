@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/1clipse">GitHub: @1clipse</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/Knight1v9">X: @Knight1v9</a>
-  &nbsp;·&nbsp;
-  Email: <code>kimziyi0416@gmail.com</code>
+  <a href="https://github.com/1clipse"><img src="https://img.shields.io/badge/GitHub-1clipse-3b3733?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="GitHub: 1clipse" /></a>
+  &nbsp;
+  <a href="https://x.com/Knight1v9"><img src="https://img.shields.io/badge/X-Knight1v9-3b3733?style=flat-square&amp;logo=x&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="X: @Knight1v9" /></a>
+  &nbsp;
+  <picture><img src="https://img.shields.io/badge/Email-kimziyi0416%40gmail.com-3b3733?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=3b3733&amp;color=b65f43" alt="Email: kimziyi0416@gmail.com" /></picture>
 </p>
 
 <br />
